@@ -14,5 +14,6 @@
    * Nano (https://www.nano-editor.org/)
    * Code Pad (https://chrome.google.com/webstore/detail/code-pad-text-editor/adaepfiocmagdimjecpifghcgfjlfmkh?hl=en-GB)
      - extension for chrome browser
-   * Caret (https://chrome.google.com/webstore/detail/caret/fljalecfjciodhpcledpamjachpmelml?hl=en) (I recorded on this)
+   * Caret (https://chrome.google.com/webstore/detail/caret/fljalecfjciodhpcledpamjachpmelml?hl=en)
+   * Online VS Code (https://vscode.dev) (I'm recording on this)
 3. Browser - Chrome, Firefox, Brave, etc.
