@@ -69,10 +69,10 @@
     * article
 20. iframe
     * Google Maps
-    * video
-    * audio
-    * embedded YouTube video on an html page
-21. IDs and classes
+21. video
+22. audio
+23. embedded YouTube video on an html page
+24. IDs and classes
     * linking to part of the page
     
 
